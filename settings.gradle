@@ -1,0 +1,6 @@
+rootProject.name = 'teim2310-idde'
+include 'teim2310-backend'
+include 'teim2310-desktop'
+include 'teim2310-web'
+include 'teim2310-spring'
+

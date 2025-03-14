@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/teim2310-backend/teim2310-idde.teim2310-backend.main.iml" filepath="$PROJECT_DIR$/.idea/modules/teim2310-backend/teim2310-idde.teim2310-backend.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/teim2310-desktop/teim2310-idde.teim2310-desktop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/teim2310-desktop/teim2310-idde.teim2310-desktop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/teim2310-spring/teim2310-idde.teim2310-spring.main.iml" filepath="$PROJECT_DIR$/.idea/modules/teim2310-spring/teim2310-idde.teim2310-spring.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/teim2310-web/teim2310-idde.teim2310-web.main.iml" filepath="$PROJECT_DIR$/.idea/modules/teim2310-web/teim2310-idde.teim2310-web.main.iml" />
+    </modules>
+  </component>
+</project>
